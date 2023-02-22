@@ -1,0 +1,15 @@
+label {
+  position: relative;
+}
+
+.hello {
+  background: linear-gradient(180deg, #f5fafe 0%, #ffffff 100%);
+  border: 1px solid #dde5ea;
+  border-radius: 30px;
+  padding: 32px 40px;
+}
+
+.about-us {
+  border-right: 2px solid #ffffffb3;
+  padding-right: 10px;
+}
