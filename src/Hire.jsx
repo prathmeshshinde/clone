@@ -1,6 +1,6 @@
 import React from "react";
 import Student from "./assets/student.png";
-import Pro from "./assets/Professional.png";
+import Pro from "./assets/professional.png";
 import Team from "./assets/teams.png";
 import Solo from "./assets/solo.png";
 import Jobs from "./assets/job-content.png";
