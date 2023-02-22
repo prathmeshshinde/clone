@@ -5,7 +5,7 @@ import Team from "./assets/teams.png";
 import Solo from "./assets/solo.png";
 import Jobs from "./assets/job-content.png";
 import Intern from "./assets/internship.png";
-import Hiring from "./assets/Hiring.png";
+import Hiring from "./assets/hiring.png";
 import Paid from "./assets/paid-internship.png";
 
 const Hire = () => {
